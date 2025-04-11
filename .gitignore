@@ -1,0 +1,6 @@
+secrets.txt
+.DS_Store
+
+#this is a comment
+
+*.log
